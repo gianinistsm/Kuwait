@@ -1,0 +1,59 @@
+@media(min-width:650px){
+    .img1 {
+        width: 4rem;
+        height: 4rem;
+        border-radius: 12rem;
+        margin-right: 0.5rem;
+        margin-left: 0.5rem;
+        margin-inline: 2rem;
+    }
+
+    button {
+        padding-inline: 2rem;
+        margin-right: 1rem;
+        border-radius: 2rem;
+        height: 2rem;
+        margin-top: 1rem;
+    }
+
+    a {
+        font-size: 0.7rem;
+    }
+
+    hr {
+        width: 84.3rem;
+    }
+
+    main p {
+        font-size: 1.5rem;
+    }
+
+    .img2 {
+        width: 100%;
+    }
+
+    .img3 {
+        width: 80rem;
+        height: 40rem;
+        
+
+    }
+
+    h2 {
+        font-size: 1.3rem;
+    }
+
+    p {
+        font-size: 1rem;
+    }
+
+    .img4, .img5, .img6 {
+        width: 13rem;
+    }
+
+    .obg {
+        font-size: 2rem;
+        text-align: center;
+        color: var(--ForestGreen);
+    }
+}

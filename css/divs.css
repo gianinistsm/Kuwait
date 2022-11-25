@@ -1,0 +1,12 @@
+div {
+    margin-bottom: 2rem;
+}
+
+section h2 {
+    font-size: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    background-color: var(--WhiteSmoke);
+    color: var(--ForestGreen);
+}
+
